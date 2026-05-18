@@ -1,0 +1,14 @@
+{
+  "latestVersionName": "1.1.3",
+  "latestVersionCode": 2,
+  "minSupportedVersionCode": 1,
+  "apkUrl": "https://github.com/USERNAME/REPOSITORY/releases/download/v1.1/reelx-v1.1.3.apk",
+  "apkSizeBytes": 25400000,
+  "releaseDate": "2026-05-18",
+  "releaseNotes": [
+    "Improved video playback",
+    "New folder profile page",
+    "Bug fixes and UI improvements"
+  ],
+  "forceUpdate": false
+}
