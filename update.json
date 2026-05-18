@@ -6,22 +6,15 @@
   "apkSizeBytes": 25400000,
   "releaseDate": "2026-05-18",
   "releaseNotes": [
-    "Major UI redesign with a cleaner and more modern Reelx experience",
-    "Improved local reels video playback for smoother scrolling and watching",
-    "Redesigned Folders page with better folder browsing and scroll support",
-    "Added new folder profile page to view folder-based videos more easily",
-    "Improved Discover page with better recent, history, trending, recommended, and suggested folder sections",
-    "Added More page with Settings, About App, Privacy Policy, App Version, Developer Portfolio, and More Apps",
-    "Added in-app update page with version info, download progress, APK size, and install flow",
-    "Improved fullscreen video support for both portrait and landscape videos",
-    "Fixed portrait video top-cut issue and improved video fit behavior",
-    "Improved landscape player gestures for brightness, volume, and double-tap skip",
-    "Added play/pause center feedback animation in portrait video mode",
-    "Improved permission page UI with a more polished app entry experience",
-    "Added About App and Privacy Policy pages",
-    "Improved bottom navigation visibility and page navigation",
-    "Fixed multiple UI spacing, scrolling, and layout issues",
-    "General bug fixes and performance improvements"
+    "🎨 Fresh new UI design",
+    "🎬 Smoother video playback",
+    "📁 Better folders & folder profile page",
+    "🔍 Improved Discover page",
+    "⚙️ Added More, Settings, About & Privacy pages",
+    "🔄 New in-app update system",
+    "📱 Better fullscreen support",
+    "✨ Play/Pause animation added",
+    "🐞 Bug fixes & performance improvements"
   ],
   "forceUpdate": false
 }
